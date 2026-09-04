@@ -7,7 +7,7 @@ about:
   head: 93ed4c7
   archived: false
   latestVersion: fftw-3.3.7
-  collectedAt: 2026-09-04T19:29:47Z
+  collectedAt: 2026-09-04T21:02:59Z
 timeline:
   created: 2013-03-17
   lastCommit: 2026-06-10
@@ -87,6 +87,79 @@ total:
   openIssue: 155
   commit: 3195
 ---
+path: /home/runner/.x-repo/github.com/FFTW/fftw3
+collectedAt: 2026-09-04T21:03:01Z
+loc:
+  C:
+    code: 26543
+    comments: 7052
+    blanks: 5402
+    files: 286
+  CHeader:
+    code: 7786
+    comments: 2693
+    blanks: 1462
+    files: 91
+  OCaml:
+    code: 5470
+    comments: 1553
+    blanks: 1034
+    files: 58
+  Perl:
+    code: 1776
+    comments: 146
+    blanks: 183
+    files: 9
+  Automake:
+    code: 1164
+    comments: 146
+    blanks: 414
+    files: 65
+  Autoconf:
+    code: 452
+    comments: 99
+    blanks: 162
+    files: 6
+  M4:
+    code: 390
+    comments: 348
+    blanks: 57
+    files: 10
+  CMake:
+    code: 378
+    comments: 3
+    blanks: 67
+    files: 1
+  Sh:
+    code: 253
+    comments: 61
+    blanks: 83
+    files: 9
+  Makefile:
+    code: 62
+    comments: 41
+    blanks: 21
+    files: 4
+  Json:
+    code: 55
+    comments: 0
+    blanks: 0
+    files: 1
+  FortranLegacy:
+    code: 38
+    comments: 37
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 85
+    blanks: 29
+    files: 2
+total:
+  code: 44367
+  comments: 12264
+  blanks: 8918
+  files: 543
 ---
 date: "2026-08-24"
 repo:
