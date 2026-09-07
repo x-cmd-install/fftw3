@@ -5,13 +5,13 @@ about:
   head: 93ed4c7
   archived: false
   latestVersion: "fftw-3.3.7"
-  collectedAt: 2026-09-07T06:08:41Z
+  collectedAt: 2026-09-07T18:24:10Z
 timeline:
   created: 2013-03-17
   lastCommit: 2026-06-10
   lastRelease: 2017-10-29
 popularity:
-  star: 3105
+  star: 3106
   watcher: 155
   fork: 717
   release: 2
@@ -86,7 +86,7 @@ total:
   commit: 3195
 ---
 path: /home/runner/.x-repo/github.com/FFTW/fftw3
-collectedAt: 2026-09-07T06:08:43Z
+collectedAt: 2026-09-07T18:24:12Z
 loc:
   C:
     code: 26543
@@ -240,7 +240,7 @@ checks:
       - 'Warn: 0 commits out of 15 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:08:44+00:00
+  collectedAt: 2026-09-07T18:24:13+00:00
   platform:
     darwin/arm64:
       name:  null
