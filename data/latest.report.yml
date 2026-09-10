@@ -7,7 +7,7 @@ about:
   latestVersion: "fftw-3.3.7"
   latestRelease: "fftw-3.3.7"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:18:39Z
+  collectedAt: 2026-09-10T23:51:01Z
 timeline:
   created: 2013-03-17
   lastCommit: 2026-06-10
@@ -90,7 +90,7 @@ total:
   commit: 3195
 ---
 path: /home/runner/.x-repo/github.com/FFTW/fftw3
-collectedAt: 2026-09-10T18:18:43Z
+collectedAt: 2026-09-10T23:51:03Z
 loc:
   C:
     code: 26543
