@@ -243,4 +243,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 15 are checked with a SAST tool'
 ---
-{"id":8301430,"author":{"login":"matteo-frigo","id":991678,"node_id":"MDQ6VXNlcjk5MTY3OA==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"MDc6UmVsZWFzZTgzMDE0MzA=","tag_name":"fftw-3.3.7","target_commitish":"master","name":"DO NOT USE THESE RELEASES","draft":false,"immutable":false,"prerelease":false,"created_at":"2017-10-29T12:13:04Z","updated_at":"2017-10-29T13:08:13Z","published_at":"2017-10-29T12:51:34Z","assets":[],"body":"The files in this github page contain development files used by the FFTW developers, and are not meant for end-user consumption. DO NOT DOWNLOAD THESE FILES unless you know what you are doing. Normal users should obtain FFTW from http://fftw.org\r\n","reactions":{"total_count":2,"+1":0,"-1":0,"laugh":1,"hooray":0,"confused":0,"heart":0,"rocket":1,"eyes":0}}
