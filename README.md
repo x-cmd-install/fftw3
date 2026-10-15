@@ -14,12 +14,12 @@ x install fftw3
 
 ## Code insight
 
-Total: **44,367** lines of code across **509** files in the top 5 languages.
+Total: **44,369** lines of code across **509** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | C | 26,543 | 7,052 | 5,402 | 286 |
-| CHeader | 7,786 | 2,693 | 1,462 | 91 |
+| CHeader | 7,788 | 2,693 | 1,462 | 91 |
 | OCaml | 5,470 | 1,553 | 1,034 | 58 |
 | Perl | 1,776 | 146 | 183 | 9 |
 | Automake | 1,164 | 146 | 414 | 65 |
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `fftw-3.3.7` (2017-10-29)
-- **Last commit**: 2026-06-10
+- **Last commit**: 2026-10-14
 
 ## Popularity
 
-- **Stars**: 3,108 · **Forks**: 722 · **Open issues**: 317 · **Contributors**: 40
+- **Stars**: 3,107 · **Forks**: 722 · **Open issues**: 317 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 49 · **Open PRs**: 31 · **Closed issues**: 157 · **Open issues**: 160 · **Commits**: 3195
+- **Releases**: 2 · **Merged PRs**: 50 · **Open PRs**: 31 · **Closed issues**: 158 · **Open issues**: 159 · **Commits**: 3196
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 3 | 0 | 3 | 0 |
-| last60d | 2026-08-15 | 0 | 0 | 3 | 0 | 5 | 0 |
-| 90d | 2026-07-16 | 0 | 0 | 4 | 1 | 6 | 0 |
-| last180d | 2026-04-17 | 0 | 1 | 11 | 1 | 9 | 7 |
-| 360d | 2025-10-19 | 0 | 1 | 12 | 7 | 11 | 18 |
-| last720d | 2024-10-24 | 0 | 5 | 14 | 13 | 16 | 29 |
+| 30d | 2026-09-15 | 0 | 1 | 3 | 1 | 2 | 1 |
+| last60d | 2026-08-16 | 0 | 1 | 3 | 1 | 4 | 1 |
+| 90d | 2026-07-17 | 0 | 1 | 4 | 2 | 5 | 1 |
+| last180d | 2026-04-18 | 0 | 2 | 11 | 2 | 8 | 8 |
+| 360d | 2025-10-20 | 0 | 2 | 12 | 8 | 10 | 19 |
+| last720d | 2024-10-25 | 0 | 6 | 14 | 14 | 15 | 30 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for fftw3 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T06:13:03Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:55:35Z._
