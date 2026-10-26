@@ -26,7 +26,7 @@ Total: **44,379** lines of code across **509** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.4 / 10**
+Overall score: **4.3 / 10**
 
 Lowest-scoring checks:
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,109 · **Forks**: 723 · **Open issues**: 317 · **Contributors**: 44
+- **Stars**: 3,110 · **Forks**: 723 · **Open issues**: 317 · **Contributors**: 44
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 53 · **Open PRs**: 32 · **Closed issues**: 159 · **Open issues**: 158 · **Commits**: 3199
+- **Releases**: 2 · **Merged PRs**: 53 · **Open PRs**: 33 · **Closed issues**: 159 · **Open issues**: 158 · **Commits**: 3199
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 2 | 6 | 0 | 1 | 4 |
-| last60d | 2026-08-26 | 0 | 2 | 6 | 1 | 4 | 4 |
-| 90d | 2026-07-27 | 0 | 3 | 6 | 2 | 4 | 4 |
-| last180d | 2026-04-28 | 0 | 5 | 12 | 2 | 6 | 9 |
-| 360d | 2025-10-30 | 0 | 5 | 13 | 8 | 10 | 21 |
-| last720d | 2024-11-04 | 0 | 9 | 15 | 14 | 15 | 33 |
+| 30d | 2026-09-26 | 0 | 2 | 6 | 0 | 1 | 4 |
+| last60d | 2026-08-27 | 0 | 2 | 7 | 1 | 4 | 4 |
+| 90d | 2026-07-28 | 0 | 3 | 7 | 2 | 4 | 4 |
+| last180d | 2026-04-29 | 0 | 5 | 13 | 2 | 6 | 9 |
+| 360d | 2025-10-31 | 0 | 5 | 14 | 8 | 10 | 21 |
+| last720d | 2024-11-05 | 0 | 9 | 16 | 14 | 15 | 33 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for fftw3 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:56:19Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:57:48Z._
