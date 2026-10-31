@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,111 · **Forks**: 724 · **Open issues**: 317 · **Contributors**: 44
+- **Stars**: 3,112 · **Forks**: 724 · **Open issues**: 317 · **Contributors**: 44
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 2 | 6 | 0 | 1 | 4 |
-| last60d | 2026-08-31 | 0 | 2 | 7 | 1 | 4 | 4 |
-| 90d | 2026-08-01 | 0 | 2 | 7 | 2 | 4 | 4 |
-| last180d | 2026-05-03 | 0 | 5 | 13 | 2 | 6 | 9 |
-| 360d | 2025-11-04 | 0 | 5 | 13 | 7 | 10 | 21 |
-| last720d | 2024-11-09 | 0 | 9 | 16 | 14 | 15 | 33 |
+| 30d | 2026-10-01 | 0 | 2 | 6 | 0 | 1 | 4 |
+| last60d | 2026-09-01 | 0 | 2 | 7 | 1 | 4 | 4 |
+| 90d | 2026-08-02 | 0 | 2 | 7 | 2 | 4 | 4 |
+| last180d | 2026-05-04 | 0 | 5 | 13 | 2 | 6 | 9 |
+| 360d | 2025-11-05 | 0 | 5 | 13 | 7 | 10 | 21 |
+| last720d | 2024-11-10 | 0 | 9 | 16 | 14 | 15 | 33 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for fftw3 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T07:13:09Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:52:22Z._
