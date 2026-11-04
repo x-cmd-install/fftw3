@@ -30,9 +30,9 @@ x install fftw3
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Code-Review** (4/10) — Found 10/24 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (4/10) — Found 10/24 approved changesets -- score normalized to 4
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -46,7 +46,7 @@ x install fftw3
 
 ## 流行度
 
-- **Star**: 3,112 · **Fork**: 725 · **开放 issue**: 317 · **贡献者**: 44
+- **Star**: 3,112 · **Fork**: 726 · **开放 issue**: 317 · **贡献者**: 44
 
 ## 累计统计
 
@@ -56,12 +56,12 @@ x install fftw3
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 2 | 7 | 0 | 1 | 4 |
-| last60d | 2026-09-04 | 0 | 2 | 8 | 1 | 4 | 4 |
-| 90d | 2026-08-05 | 0 | 2 | 8 | 1 | 4 | 4 |
-| last180d | 2026-05-07 | 0 | 5 | 14 | 2 | 6 | 9 |
-| 360d | 2025-11-08 | 0 | 5 | 14 | 6 | 10 | 21 |
-| last720d | 2024-11-13 | 0 | 9 | 17 | 14 | 15 | 33 |
+| 30d | 2026-10-05 | 0 | 2 | 7 | 0 | 1 | 4 |
+| last60d | 2026-09-05 | 0 | 2 | 8 | 1 | 4 | 4 |
+| 90d | 2026-08-06 | 0 | 2 | 8 | 1 | 4 | 4 |
+| last180d | 2026-05-08 | 0 | 5 | 14 | 2 | 6 | 9 |
+| 360d | 2025-11-09 | 0 | 5 | 14 | 6 | 9 | 21 |
+| last720d | 2024-11-14 | 0 | 9 | 17 | 14 | 15 | 33 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ fftw3 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T08:18:50Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T07:49:52Z._
