@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 2 | 7 | 0 | 1 | 4 |
-| last60d | 2026-09-08 | 0 | 2 | 8 | 1 | 4 | 4 |
-| 90d | 2026-08-09 | 0 | 2 | 8 | 1 | 4 | 4 |
-| last180d | 2026-05-11 | 0 | 5 | 14 | 2 | 6 | 9 |
-| 360d | 2025-11-12 | 0 | 5 | 14 | 6 | 9 | 21 |
-| last720d | 2024-11-17 | 0 | 9 | 17 | 14 | 15 | 33 |
+| 30d | 2026-10-09 | 0 | 2 | 7 | 0 | 1 | 3 |
+| last60d | 2026-09-09 | 0 | 2 | 8 | 1 | 4 | 4 |
+| 90d | 2026-08-10 | 0 | 2 | 8 | 1 | 4 | 4 |
+| last180d | 2026-05-12 | 0 | 5 | 14 | 2 | 6 | 8 |
+| 360d | 2025-11-13 | 0 | 5 | 14 | 6 | 9 | 21 |
+| last720d | 2024-11-18 | 0 | 9 | 17 | 14 | 15 | 33 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for fftw3 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:22:17Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:25:11Z._
