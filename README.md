@@ -30,9 +30,9 @@ Overall score: **4.3 / 10**
 
 Lowest-scoring checks:
 
+- **Maintained** (4/10) — 4 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 4
 - **Code-Review** (4/10) — Found 10/24 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,116 · **Forks**: 727 · **Open issues**: 317 · **Contributors**: 44
+- **Stars**: 3,119 · **Forks**: 729 · **Open issues**: 318 · **Contributors**: 44
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 53 · **Open PRs**: 34 · **Closed issues**: 159 · **Open issues**: 158 · **Commits**: 3199
+- **Releases**: 2 · **Merged PRs**: 53 · **Open PRs**: 35 · **Closed issues**: 159 · **Open issues**: 159 · **Commits**: 3199
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 0 | 2 | 8 | 1 | 2 | 4 |
-| 90d | 2026-08-18 | 0 | 2 | 8 | 1 | 4 | 4 |
-| last180d | 2026-05-20 | 0 | 5 | 14 | 2 | 6 | 6 |
-| 360d | 2025-11-21 | 0 | 5 | 14 | 6 | 9 | 21 |
-| last720d | 2024-11-26 | 0 | 9 | 17 | 14 | 15 | 33 |
+| 30d | 2026-10-20 | 0 | 0 | 4 | 0 | 1 | 0 |
+| last60d | 2026-09-20 | 0 | 2 | 9 | 1 | 3 | 4 |
+| 90d | 2026-08-21 | 0 | 2 | 9 | 1 | 5 | 4 |
+| last180d | 2026-05-23 | 0 | 5 | 15 | 2 | 7 | 6 |
+| 360d | 2025-11-24 | 0 | 5 | 15 | 6 | 10 | 21 |
+| last720d | 2024-11-29 | 0 | 9 | 18 | 14 | 16 | 33 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for fftw3 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:41:28Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:42:25Z._
